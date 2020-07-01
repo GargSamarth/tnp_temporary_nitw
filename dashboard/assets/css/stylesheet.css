@@ -3,7 +3,7 @@ body,html{
 }
 
 .active-head{
-	font-size: 250%;
+	font-size: 40px;
 	color:  #5c28a6;
 	font-weight: bold;
 	margin-top: 10%;
@@ -45,7 +45,7 @@ body,html{
 }
 
 .name{
-	font-size: 150%;
+	font-size: 30px;
 	color: #5c28a6;
 	font-weight: bold;
 }
