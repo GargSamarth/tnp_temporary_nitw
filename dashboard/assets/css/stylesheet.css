@@ -2,14 +2,6 @@ body,html{
 	background: #d5d8ed;
 }
 
-.active-head{
-	font-size: 40px;
-	color:  #5c28a6;
-	font-weight: bold;
-	margin-top: 10%;
-	
-}
-
 .active-head,.list-head
 {
 	background: #ffffff;
