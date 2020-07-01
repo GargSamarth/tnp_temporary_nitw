@@ -56,28 +56,3 @@ body,html{
 	margin: 2% ;
 	text-underline-position: all; 
 }
-
-.app-status, .announcement{
-	background: #d5d8ed;
-	margin: 2% 2%;
-}
-
-.dash-sub-head{
-	font-size: 200%;
-	text-align: center;
-	margin: 1%;
-}
-
-.content{
-	width: 60%;
-	min-height: 100px;
-	background: #f1f1f1;
-	margin:1%;
-}
-.contents{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	margin-bottom: 2%;
-}
